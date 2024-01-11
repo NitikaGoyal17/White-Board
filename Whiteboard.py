@@ -36,7 +36,7 @@ def new_canvas():
     display_pallete
 
 #icon
-image_icon = PhotoImage(file = "image.png")
+image_icon = PhotoImage(file = "logo.png")
 root.iconphoto(False, image_icon)
 
 color_box = PhotoImage(file = "color section.png")
